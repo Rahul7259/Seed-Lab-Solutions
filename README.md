@@ -19,6 +19,6 @@ This repository contains SEED lab solutions:
 - Gaining insight into **cryptographic hash properties**: preimage resistance, second-preimage resistance, and collision resistance  
 - Learning **why MD5 is deprecated** in modern cryptography  
 - Documenting lab work with **screenshots, command outputs, and analysis**  
-- Strengthening understanding of **secure alternatives** such as SHA-256, SHA-3, and HMAC  
+
 
 
