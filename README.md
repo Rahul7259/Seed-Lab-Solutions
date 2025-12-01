@@ -20,7 +20,7 @@ This lab demonstrates the weakness of the MD5 hashing algorithm by generating an
 ---
 
 ### **2. XSS Attack simulation (XSS Attack)**
-**File:** `Assignment 2 with XSS Scripting.pdf`  
+**File:** `XSS-Attack.pdf`  
 A complete walkthrough of exploiting and mitigating Cross-Site Scripting (XSS) vulnerabilities in the Elgg social networking system.
 
 **Covered Tasks**
